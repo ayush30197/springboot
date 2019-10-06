@@ -1,0 +1,117 @@
+[{
+  "EmployeeName":"E1",
+  "Department":"DX",
+  "DirectManager":"",
+  "ExtendedManager":[],
+  "DirectReports":["E2","E3"],
+  "ExtendendReports":["E2","E3","E4","E5","E6","E7"],
+  "MobileNo":"9456123745",
+  "Address":"Swargate",
+  "Locality":"",
+  "VdiId":"",
+  "ProcessName":[],
+  "ApplicationName":[],
+  "ROU":[],
+  "ROR":""
+  
+},
+{
+  "EmployeeName":"E2",
+  "Department":"D1",
+  "DirectManager":"E1",
+  "ExtendedManager":["E1"],
+  "DirectReports":["E4","E5"],
+  "ExtendendReports":["E4","E5"],
+  "MobileNo":"9456128745",
+  "Address":"Pimpri",
+  "Locality":"",
+  "VdiId":"",
+  "ProcessName":[],
+  "ApplicationName":[],
+  "ROU":[],
+  "ROR":""
+  
+},{
+  "EmployeeName":"E3",
+  "Department":"D2",
+  "DirectManager":"E1",
+  "ExtendedManager":["E1"],
+  "DirectReports":["E6","E7"],
+  "ExtendendReports":["E6","E7"],
+  "MobileNo":"9444444745",
+  "Address":"Magarpatta",
+  "Locality":"",
+  "VdiId":"",
+  "ProcessName":[],
+  "ApplicationName":[],
+  "ROU":[],
+  "ROR":""
+  
+},{
+  "EmployeeName":"E4",
+  "Department":"D1",
+  "DirectManager":"E2",
+  "ExtendedManager":["E1","E2"],
+  "DirectReports":[],
+  "ExtendendReports":[],
+  "MobileNo":"9456123748",
+  "Address":"Katraj",
+  "Locality":"",
+  "VdiId":"",
+  "ProcessName":[],
+  "ApplicationName":[],
+  "ROU":[],
+  "ROR":""
+  
+},
+{
+  "EmployeeName":"E5",
+  "Department":"D1",
+  "DirectManager":"E2",
+  "ExtendedManager":["E1","E2"],
+  "DirectReports":[],
+  "ExtendendReports":[],
+  "MobileNo":"9456523745",
+  "Address":"Kharadi",
+  "Locality":"",
+  "VdiId":"",
+  "ProcessName":[],
+  "ApplicationName":[],
+  "ROU":[],
+  "ROR":""
+  
+},
+{
+  "EmployeeName":"E6",
+  "Department":"D2",
+  "DirectManager":"E3",
+  "ExtendedManager":["E1","E3"],
+  "DirectReports":[],
+  "ExtendendReports":[],
+  "MobileNo":"9456123045",
+  "Address":"Khadki",
+  "Locality":"",
+  "VdiId":"",
+  "ProcessName":[],
+  "ApplicationName":[],
+  "ROU":[],
+  "ROR":""
+  
+},
+{
+  "EmployeeName":"E7",
+  "Department":"D2",
+  "DirectManager":"E3",
+  "ExtendedManager":["E1","E3"],
+  "DirectReports":[],
+  "ExtendendReports":[],
+  "MobileNo":"8856123745",
+  "Address":"Rahatni",
+  "Locality":"",
+  "VdiId":"",
+  "ProcessName":[],
+  "ApplicationName":[],
+  "ROU":[],
+  "ROR":""
+  
+}]

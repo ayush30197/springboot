@@ -1,0 +1,31 @@
+[
+  {"ProcessName":"P1",
+    "ApplicationName":["A1","A2"]
+  },
+   {"ProcessName":"P2",
+    "ApplicationName":["A3","A4","A6"]
+  },
+   {"ProcessName":"P3",
+    "ApplicationName":[]
+  } ,{"ProcessName":"P4",
+    "ApplicationName":["A5"]
+  },
+   {"ProcessName":"P5",
+    "ApplicationName":[]
+  },
+   {"ProcessName":"P6",
+    "ApplicationName":["A7","A8"]
+  },
+   {"ProcessName":"P7",
+    "ApplicationName":["A9"]
+  },
+   {"ProcessName":"P8",
+    "ApplicationName":["A13","A12"]
+  },
+   {"ProcessName":"P9",
+    "ApplicationName":["A10","A11"]
+  },
+   {"ProcessName":"P10",
+    "ApplicationName":["A15","A14"]
+  }
+]
